@@ -9,7 +9,11 @@
 ## 使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事
 ## 使用书生·浦语 Web 和浦语对话
 ## 部署八戒-Chat-1.8B 模型并对话
+
 ## 完成浦语·灵笔2的图文创作及视觉问答部署
+### 视觉问答
+![2024-06-02_130236](https://github.com/xiaojun456/InternLM_study/assets/156819467/3171d2bc-24c5-4233-9732-6d6a353bf8b2)
+
 ## Lagent工具调用数据分析 Demo 部署
 ## huggingface下载InternLM2-Chat-7B 的 config.json 文件到本地
 # 课堂笔记
