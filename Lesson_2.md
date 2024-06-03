@@ -5,7 +5,6 @@
 整体来说， InternLM2-Chat-1.8B已经可以进行较为流畅的对话，能够进行基本的问答操作
 
 # 概述
-轻松分钟玩转书生·浦语大模型趣味 Demo
 教学视频：https://www.bilibili.com/video/BV1AH4y1H78d/
 文档链接：https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
