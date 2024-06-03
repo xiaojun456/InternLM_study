@@ -6,6 +6,7 @@
 
 # 概述
 教学视频：https://www.bilibili.com/video/BV1AH4y1H78d/
+
 文档链接：https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
 # 实验结果
