@@ -5,6 +5,10 @@
 整体来说， InternLM2-Chat-1.8B已经可以进行较为流畅的对话，能够进行基本的问答操作
 
 # 概述
+轻松分钟玩转书生·浦语大模型趣味 Demo
+教学视频：https://www.bilibili.com/video/BV1AH4y1H78d/
+文档链接：https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
+
 # 实验结果
 ## 使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事
  InternLM2-Chat-1.8B生成的故事逻辑清晰，流程，还有转折，结果非常符合正能量
@@ -37,6 +41,5 @@
 
 ## huggingface下载InternLM2-Chat-7B 的 config.json 文件到本地
 
-# 课堂笔记
 
 
