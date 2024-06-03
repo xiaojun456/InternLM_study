@@ -42,7 +42,6 @@
 以 InternLM2-Chat-7B 作为基础模型，使用Lagent工具实现智能体。模型能代码解释器工具，编写python代码，但并没有直接给出答案，需要追问出结果
 ![2024-06-02_121744](https://github.com/xiaojun456/InternLM_study/assets/156819467/f3421d17-0ce0-4ec8-9040-d1d99621d445)
 
-## huggingface下载InternLM2-Chat-7B 的 config.json 文件到本地
 
 
 
