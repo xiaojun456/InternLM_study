@@ -12,6 +12,15 @@
 
 文档链接：https://github.com/InternLM/Tutorial/blob/camp2/helloworld/hello_world.md
 
+# 过程要点
+## 配置基础环境
+选择镜像 用 Cuda11.7-conda 镜像
+studio-conda -o internlm-base -t demo
+# 与 studio-conda 等效的配置方案
+# conda create -n demo python==3.10 -y
+# conda activate demo
+# conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+
 # 实验结果
 ## 使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事
  InternLM2-Chat-1.8B生成的故事逻辑清晰，流程，还有转折，结果非常符合正能量
@@ -41,6 +50,12 @@
 ## Lagent工具调用数据分析 Demo 部署
 以 InternLM2-Chat-7B 作为基础模型，使用Lagent工具实现智能体。模型能代码解释器工具，编写python代码，但并没有直接给出答案，需要追问出结果
 ![2024-06-02_121744](https://github.com/xiaojun456/InternLM_study/assets/156819467/f3421d17-0ce0-4ec8-9040-d1d99621d445)
+
+# 结语
+熟悉了studio平台的使用，完成了几个demo部署。收货颇多
+
+
+
 
 
 
