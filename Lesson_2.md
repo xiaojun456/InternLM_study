@@ -15,11 +15,13 @@
 # 过程要点
 ## 配置基础环境
 选择镜像 用 Cuda11.7-conda 镜像
+```
 studio-conda -o internlm-base -t demo
 # 与 studio-conda 等效的配置方案
 # conda create -n demo python==3.10 -y
 # conda activate demo
 # conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
+```
 
 # 实验结果
 ## 使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事
