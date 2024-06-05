@@ -54,7 +54,7 @@ studio-conda -o internlm-base -t demo
 ![2024-06-02_121744](https://github.com/xiaojun456/InternLM_study/assets/156819467/f3421d17-0ce0-4ec8-9040-d1d99621d445)
 
 # 结语
-熟悉了studio平台的使用，完成了几个demo部署。收货颇多
+熟悉了studio平台的使用，完成了几个demo部署。收获颇多
 
 
 
